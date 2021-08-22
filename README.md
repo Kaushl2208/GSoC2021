@@ -16,6 +16,7 @@
 	<a href="#deliverables">Deliverables</a> | 
 	<a href="#future-goals">Future Goals</a> | 
 	<a href="#key-takeaways">Key Takeaways</a>
+    <a href="#Acknowledgements">Key Takeaways</a>
 </p>
 
 
