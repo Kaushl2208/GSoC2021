@@ -52,7 +52,7 @@ Probable POS Tags looks Like: ['NOUN', 'NUM', 'PROPN', 'PROPN'] <br>
 
 After testing the architecture predicted and getting good accuracy in recognising most of the copyright statements from the required datasets provided. The compilation of the script started. The working of script looked like:
 <br>
-![WorkFlow-Diagram](/files/MyDiagram1.png)
+![WorkFlow-Diagram](/files/MyDiagram1Final.png)
 <br>
 
 The task was divided into three sections:
