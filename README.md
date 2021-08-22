@@ -101,9 +101,17 @@ Copyright with clutter removal:
 The approach taken was:
 
 `IF is_copyright == "t"`
+
+
 `string = copyrightStatement;`
+
+
 `IF 'ORG', 'PERSON' in NER_LIST:`
+
+
 ` clutter = string[0:string.index(org_name)] (same way person_name)`
+
+
 
 
 **RESULTS :**
